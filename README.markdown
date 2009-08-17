@@ -16,6 +16,7 @@ supporting components such as smoothing capacitors, status LED, and
 associated current limiting resistor.
 
 Features:
+
  * Reset button wired through to Arduino reset pin
  * One general-purpose SMT LED wired to VCC (drive low to illuminate)
  * Pads for 2 surface-mount 100nF smoothing capacitors
@@ -30,7 +31,7 @@ The design is saved as an EAGLE project. EAGLE PCB design software is
 available from www.cadsoftusa.com free for non-commercial use. To use
 this project download it and place the directory containing these files
 into the "eagle" directory on your computer. Then open EAGLE and
-navigate to Projects -> eagle -> ProtoShield.
+navigate to Projects -> eagle -> ProtoShieldPro.
 
 
 DISTRIBUTION
