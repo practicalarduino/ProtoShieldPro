@@ -13,16 +13,16 @@ plain pads right to the ends of the board, which also makes it easier
 to fit horizontal PCB-mount sockets that need to overlap the edge. Note
 that this design uses surface-mount parts in 0805 packaging for
 supporting components such as smoothing capacitors, status LED, and
-associated current limiting resistor.
+associated current limiting resistors, but has custom oversized 0805
+pads to make it easier to hand-solder.
 
 Features:
 
- * Reset button wired through to Arduino reset pin
- * One general-purpose SMT LED wired to VCC (drive low to illuminate)
- * Pads for 2 surface-mount 100nF smoothing capacitors
-
-Photos online at:
-  www.practicalarduino.com/news/id/311
+ * Reset button wired through to Arduino reset pin.
+ * One general-purpose SMT LED wired to VCC (drive low to illuminate).
+ * Pads for 2 surface-mount 100nF smoothing capacitors.
+ * Parts overlay on both the top and the bottom so you can see what you
+   are connecting without having to keep turning the board over.
 
 
 INSTALLATION
