@@ -117,6 +117,5 @@ text, and with all exposed surfaces gold-plated for maximum durability.
  * Testing:                  Yes
  * UL Marking:               No
  * Date Code Marking:        No
- * Lead Time:                8 or 12 days, as you prefer
-                            (8 days costs a small amount more)
+ * Lead Time:                8 or 12 days, as you prefer (8 costs a small amount more)
  * Special Requirement Note: PCB is routed to outside of Top layer
